@@ -1,2 +1,2 @@
-# monty
-C: Data Structure and Algorithm
+# 0x19. C - Stacks, Queues - LIFO, FIFO
+By Christopher Wiafe Debrah
